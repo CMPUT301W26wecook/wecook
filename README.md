@@ -1,3 +1,7 @@
 # wecook
 ## Collaborators:
-tianxu3
+* yuyang31
+* huihao
+* tianxu3
+* boxin3
+* zuo5
