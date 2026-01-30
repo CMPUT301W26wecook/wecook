@@ -1,5 +1,5 @@
 package com.example.wecook;
 
-public class Hectangle extends Shape {
+public class Rectangle extends Shape {
     private int h;
 }
