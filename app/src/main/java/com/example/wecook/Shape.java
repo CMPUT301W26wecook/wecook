@@ -1,7 +1,7 @@
 package com.example.wecook;
 
 public abstract class Shape {
-    protected String color = "yellow";
+    protected String color = "orange";
     private int x;
     private int y;
 }
